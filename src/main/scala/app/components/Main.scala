@@ -13,3 +13,4 @@ object Main {
     .build
   def apply() = component()
 }
+
